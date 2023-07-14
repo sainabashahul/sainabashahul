@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+Mini Project-OrangeHRM(OrangeHRM is a free and open-source HR management software designed to simplify and automate HR processes for HR managers and offers a powerful employee management software solution that  includes  a  dashboard, HR admin,Time tracking,Leave  management and so much more)https://docs.google.com/spreadsheets/d/1Aw6iG8t2eQbSNjYFypEtAT2-XQRhlkscrM08fHX-_cs/edit#gid=448285315
